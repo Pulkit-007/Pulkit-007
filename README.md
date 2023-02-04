@@ -1,4 +1,5 @@
-![logo](https://static.vecteezy.com/system/resources/previews/000/344/684/original/programming-code-on-laptop-banner-vector-flat-illustration.jpg)
+![image](https://user-images.githubusercontent.com/91002702/216775308-e93f7517-a695-4a43-a526-e822cc4ae56e.png)
+
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=ECYlEu38JczeYA&riu=http%3a%2f%2fwww.technogeeks.in%2ftech_uploads%2f2018%2f06%2fprogrammer.gif&ehk=N%2bm0kBzYa3DDYnxQgmCKzdSledGz6MIkyKmNWHkK%2fWE%3d&risl=&pid=ImgRaw&r=0">
 🔭 I'm currently working on Natural Language Processing<br>👯 I'm looking to collaborate on Full Stack MERN<br>🤝 I'm looking for help with Machine Learning<br>🌱 I'm currently learning Express, React.js<br>💬 Ask me about Java, HTML, CSS, JS beginner, Intermediate<br>⚡ Fun fact I think I am funny
