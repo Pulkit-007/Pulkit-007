@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/91002702/216775308-e93f7517-a695-4a43-a526-e822cc4ae56e.png)
+<img src="https://media.geeksforgeeks.org/img-practice/hackathonbackground-1674452664.gif">
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=ECYlEu38JczeYA&riu=http%3a%2f%2fwww.technogeeks.in%2ftech_uploads%2f2018%2f06%2fprogrammer.gif&ehk=N%2bm0kBzYa3DDYnxQgmCKzdSledGz6MIkyKmNWHkK%2fWE%3d&risl=&pid=ImgRaw&r=0">
